@@ -2,6 +2,8 @@
 #Added graphics and sound
 #Add a game start countdown
 # I played around with the Ai made it somtimes go in the wrong direction !!
+# 2 Balls after 5 Points 
+# Countdown before play
 #Created on IDLE on Mac sound would need to be changed for Windows or Linux
 
 #Need to do this to get the keys to repeat
