@@ -8,6 +8,8 @@ Added sound from "The Essential Retro Video Game Sound Effects Collection" - Juh
 changed the way the Ai worked to introduce some human error!!
 Created on IDLE on Mac sound command would need to be changed for Windows or Linux
 
+This was a lot of fun thanks ZTM !!
+
 Need to do this on Mac terminal to get the keys to repeat
 
 defaults write -g ApplePressAndHoldEnabled -bool false
